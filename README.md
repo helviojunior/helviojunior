@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://www.linkedin.com/in/helviojunior/" target="_blank"><img src="https://img.shields.io/twitter/follow/helviojunior?logo=linkedin&style=for-the-badge" alt="itsfading_" /></a> </p>
 
 - 📔 I’m co-founder and CEO of [Sec4US](https://sec4us.com.br/)
-- I am currently learning **Low Level stuffs and studing to OSEE**
-- I am the first to earn [OSCE3](https://www.credly.com/badges/549448c6-e476-410a-8d7f-fe63281cd0d3/public_url) in Latin America
-- I hold the majors offensive security certifications **OSCE3, OSEP, OSED, OSWE, OSCE, OSCP, eMAPT, eCXD, CEH**
+- 📚 I’m currently learning **Low Level stuffs and studing to OSEE**
+- 🔖 I’m the first to earn [OSCE3](https://www.credly.com/badges/549448c6-e476-410a-8d7f-fe63281cd0d3/public_url) in Latin America
+- 🔖 I hold the majors offensive security certifications **OSCE3, OSEP, OSED, OSWE, OSCE, OSCP, eMAPT, eCXD, CEH**
 - 📝 I regularly (or not) write articles on [https://www.helviojunior.com.br](https://www.helviojunior.com.br)
 - 💬 Ask me about **buffer overflow, assembly, shellcoding, binary exploitation, exploit dev, malware dev, network, mobile pentesting and Source Code Review and so on**
 - 📫 How to reach me **helvio.junior@sec4us.com.br**
