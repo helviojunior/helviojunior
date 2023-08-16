@@ -20,10 +20,10 @@
 ### Creator of 🇧🇷 Brazilian Cyber Security Certifications:
 <p align="left">
     <a href="https://sec4us.com.br/certificacao/scmpa-sec4us-certified-mobile-pentester-android/" target="_blank" rel="noreferrer"> 
-        <img src="https://sec4us.com.br/static/images/logo-scmpa.png" alt="osee prep" width="40" height="40"/> 
+        <img src="https://sec4us.com.br/static/images/logo-scmpa.png" alt="osee prep" width="64" height="64"/> 
     </a>
     <a href="https://sec4us.com.br/certificacao/scwap-sec4us-certified-web-api-pentester/" target="_blank" rel="noreferrer"> 
-        <img src="https://sec4us.com.br/static/images/logo-scwap.png" alt="osce3" width="40" height="40"/> 
+        <img src="https://sec4us.com.br/static/images/logo-scwap.png" alt="osce3" width="64" height="64"/> 
     </a> 
 </p>
 
