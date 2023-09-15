@@ -54,6 +54,9 @@
 
 
 ### My public presentations in Brazilian language (PT-BR):
+
+**Note:** Only on Brazilian language (Portuguese)
+
 - [Using Windows In/Direct System call to bypass AV/EDR](https://github.com/helviojunior/Presentations/tree/master/2023/MindTheSec)
 - [Mini Treinamento Mobile Exploitation](https://github.com/helviojunior/Presentations/tree/master/2022/BECOXPL)
 - [Windows ROP - Return Oriented Programming](https://github.com/helviojunior/Presentations/tree/master/2020/SecurityCast)
@@ -62,3 +65,8 @@
 - [Printable ASCII Shellcode](https://github.com/helviojunior/Presentations/tree/master/2020/CSSB)
 - [Assumindo o controle total da sua rede em menos de 1 hora, o ataque e suas principais defesas](https://github.com/helviojunior/Presentations/tree/master/2019/MindTheSec)
 - [Post exploitation com análise de dump de memória](https://github.com/helviojunior/Presentations/tree/master/2018/MindTheSec)
+
+
+### Interview
+
+- https://youtu.be/aoFDErwZ-L8
