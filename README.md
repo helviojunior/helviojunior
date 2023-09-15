@@ -51,3 +51,14 @@
         <img src="https://images.credly.com/size/680x680/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="osce3" width="40" height="40"/> 
     </a>
 </p>
+
+
+### My public presentations in Brazilian language (PT-BR):
+- [Using Windows In/Direct System call to bypass AV/EDR](https://github.com/helviojunior/Presentations/tree/master/2023/MindTheSec)
+- [Mini Treinamento Mobile Exploitation](https://github.com/helviojunior/Presentations/tree/master/2022/BECOXPL)
+- [Windows ROP - Return Oriented Programming](https://github.com/helviojunior/Presentations/tree/master/2020/SecurityCast)
+- [Linux ROP - Return Oriented Programming](https://github.com/helviojunior/Presentations/tree/master/2020/MindTheSec)
+- [Shellcode para desenvolvimento de exploits](https://github.com/helviojunior/Presentations/tree/master/2020/FIAP)
+- [Printable ASCII Shellcode](https://github.com/helviojunior/Presentations/tree/master/2020/CSSB)
+- [Assumindo o controle total da sua rede em menos de 1 hora, o ataque e suas principais defesas](https://github.com/helviojunior/Presentations/tree/master/2019/MindTheSec)
+- [Post exploitation com análise de dump de memória](https://github.com/helviojunior/Presentations/tree/master/2018/MindTheSec)
