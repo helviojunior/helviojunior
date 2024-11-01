@@ -53,10 +53,15 @@
 </p>
 
 
+### My public presentations (EN):
+
+- [HookChain: A new perspective for Bypassing EDR Solutions - DEFCON 32](https://youtu.be/AfDXAdLJ7dU?si=Q5BTLWIfeSRUwaK3)
+
 ### My public presentations in Brazilian language (PT-BR):
 
 **Note:** Only on Brazilian language (Portuguese)
 
+- [HookChain: Uma nova perspectiva para bypass de soluções de EDR/XDR](https://www.youtube.com/watch?v=EM5xejYhl1s)
 - [Using Windows In/Direct System call to bypass AV/EDR](https://github.com/helviojunior/Presentations/tree/master/2023/MindTheSec)
 - [Mini Treinamento Mobile Exploitation](https://github.com/helviojunior/Presentations/tree/master/2022/BECOXPL)
 - [Windows ROP - Return Oriented Programming](https://github.com/helviojunior/Presentations/tree/master/2020/SecurityCast)
