@@ -55,6 +55,7 @@
 
 ### My public presentations (EN):
 
+- [HookChain: A new perspective for Bypassing EDR Solutions - Sector/BlackHat Toronto](https://youtu.be/Rxw0DFkMeQ8)
 - [HookChain: A new perspective for Bypassing EDR Solutions - DEFCON 32](https://youtu.be/AfDXAdLJ7dU?si=Q5BTLWIfeSRUwaK3)
 
 ### My public presentations in Brazilian language (PT-BR):
